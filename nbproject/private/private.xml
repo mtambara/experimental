@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/lsc/nbprojects/Test%20project/src/test/project/TestProject.java</file>
+            <file>file:/lsc/nbprojects/Test%20project/src/test/jdi/JDIDemoExp.java</file>
+            <file>file:/lsc/nbprojects/Test%20project/com/sun/tools/jdi/SocketAttachingConnector.java</file>
+            <file>file:/lsc/nbprojects/Test%20project/src/test/jdi/JDIProxy.java</file>
+            <file>file:/lsc/nbprojects/Test%20project/src/test/jdi/JDIUtil.java</file>
+            <file>file:/lsc/nbprojects/Test%20project/com/sun/tools/jdi/GenericAttachingConnector.java</file>
+            <file>file:/lsc/nbprojects/Test%20project/src/test/jdi/CounterTestExp.java</file>
+            <file>file:/lsc/nbprojects/Test%20project/com/sun/tools/jdi/SocketTransportService.java</file>
+            <file>file:/lsc/nbprojects/Test%20project/com/sun/tools/jdi/TargetVM.java</file>
+            <file>file:/lsc/nbprojects/Test%20project/com/sun/jdi/connect/AttachingConnector.java</file>
+            <file>file:/lsc/nbprojects/Test%20project/com/sun/jdi/connect/spi/TransportService.java</file>
+            <file>file:/lsc/nbprojects/Test%20project/src/test/project/TracingIH.java</file>
+            <file>file:/lsc/nbprojects/Test%20project/com/sun/jdi/connect/spi/Connection.java</file>
+            <file>file:/lsc/nbprojects/Test%20project/src/test/project/Test.java</file>
+        </group>
+    </open-files>
+</project-private>
